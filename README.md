@@ -14,6 +14,9 @@ __
 
 Step 2 - Import the package to studio by Right Clicking on Workspace, then press "Insert From File" and chose the RBXM package you downloaded, Done!
 
+--// GitLab
 https://brady-xyz.gitbook.io/protonv-1/
 
+
+--// Credits
 Scripted and Designed by biggaboy212
