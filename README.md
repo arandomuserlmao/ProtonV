@@ -16,4 +16,4 @@ Step 2 - Import the package to studio by Right Clicking on Workspace, then press
 
 https://brady-xyz.gitbook.io/protonv-1/
 
-No credits needed! (although it would he nice to add)
+Scripted and Designed by biggaboy212
