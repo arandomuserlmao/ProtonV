@@ -6,6 +6,10 @@ A Stylish and Minimalistic UI FrameWork that is fully customizable via Roblox St
 ![image](https://github.com/biggaboy212/ProtonV/assets/75142294/aaec51de-7e13-452a-9c48-b645cff5aee0)
 
 
+To use ProtonV, you will go through a very quick and easy Process.
+Step 1 - Download the RBXM package from the github or gitbook.
+Step 2 - Import the package to studio by Right Clicking on Workspace, then press "Insert From File" and chose the RBXM package you downloaded, Done!
 
 https://brady-xyz.gitbook.io/protonv-1/
+
 No credits needed! (although it would he nice to add)
