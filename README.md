@@ -9,7 +9,7 @@ A Stylish and Minimalistic UI FrameWork that is fully customizable via Roblox St
 To use ProtonV, you will go through a very quick and easy Process.
 --
 
-Step 1 - Download the RBXM package from the github or gitbook.
+Step 1 - Download the RBXM package from https://github.com/biggaboy212/ProtonV/releases/tag/1.0
 __
 
 Step 2 - Import the package to studio by Right Clicking on Workspace, then press "Insert From File" and chose the RBXM package you downloaded, Done!
