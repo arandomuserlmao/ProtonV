@@ -1,7 +1,7 @@
-![image](https://github.com/biggaboy212/ProtonV/assets/75142294/ae769b6a-e92d-4b14-a419-3d44884432b5)
+# Proton Utilities | ProtonV
+![image](https://github.com/biggaboy212/ProtonV/assets/75142294/8e41c88b-c00c-478e-82f9-62d4d43c3484)
 
 
-# ProtonV
 A Stylish and Minimalistic UI FrameWork that is fully customizable via Roblox Studio 
 
 --// Old design, pending UI changes
